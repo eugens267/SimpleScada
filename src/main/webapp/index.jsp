@@ -11,6 +11,6 @@
     <title>Is Alive</title>
   </head>
   <body>
-  Hello from the simple app v.4
+  Hello from the simple app v.5
   </body>
 </html>
